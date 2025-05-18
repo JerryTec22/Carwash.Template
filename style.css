@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    font-family:Times New Romen;
+    font-size: xx-large;
+}
+h2{
+    color: blue
+    
+}
+p{
+    color: crimson;
+    font-family: fantasy;
+    font-size: x-large
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background-color:cornflowerblue;
+    padding: 5px;
+}
+
+a:hover{
+    background-color: darkblue;
+    color: #ffffff;
+    
+}
+.gallery img{
+    
+    width: 100%;
+}
